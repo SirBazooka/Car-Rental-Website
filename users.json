@@ -1,0 +1,32 @@
+[
+    {
+        "fullName": "test name",
+        "email": "test@gmail.com",
+        "password": "$2y$12$EQWTvTh1iu0CNuAU4HRQ2uPbRIdFjZqX95oYr.3J2g7S1U6.6.c9m",
+        "isAdmin": false
+    },
+    {
+        "fullName": "a",
+        "email": "a@gmail.com",
+        "password": "$2y$12$.UBqo3b6cGXG66g9J9tI3OUvOOLs3LfViiA0vZI3C8iOTVwxzs.CS",
+        "isAdmin": false
+    },
+    {
+        "fullName": "qwe",
+        "email": "qwe@gmail.com",
+        "password": "$2y$12$0X7Y2br7j50LCBVA97S3XeaPIpx\/zFFq2YWlPZKA3LwT5lLe.Vu8u",
+        "isAdmin": false
+    },
+    {
+        "fullName": "tt",
+        "email": "tt@gmail.com",
+        "password": "$2y$12$uJeEmoZvnWEyq2UJh0Q4F.zQGruJ\/7xzCvXPpbwQnw5msclVlx4wW",
+        "isAdmin": false
+    },
+    {
+        "fullName": "admin",
+        "email": "admin@ikarrental.hu",
+        "password": "$2y$12$9PStz4dSc.7iyQh6ebn1\/OKgAbNr2xcKLGvxXPnAz\/MFeQSGYQEUC",
+        "isAdmin": true
+    }
+]
